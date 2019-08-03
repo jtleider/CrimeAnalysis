@@ -1,0 +1,9 @@
+This is some code I wrote to examine how violent crime varies by hour of the
+day, based on Chicago crime data for the years 2009-2018
+(https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).
+Violent crime does appear to peak at night, as we might expect intuitively. The
+peak seems to occur earlier in colder winter months and later in summer.
+Interestingly, in many years there is a noticeable spike in January at 12 midnight,
+which is entirely accounted for by New Year's Day. Otherwise, there are
+generally not abrupt spikes at particular hours.
+
